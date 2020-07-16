@@ -9,4 +9,9 @@ h1 {
     font-weight: bold;
     border-radius: 30px;
 }
+
+h6.card-title {
+    color: #6c757d;
+    font-weight: bold;
+    text-align: center;
 }
