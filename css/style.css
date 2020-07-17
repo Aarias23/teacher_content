@@ -18,7 +18,7 @@ h6.card-title {
 
 @media only screen and (max-width: 768px) {
     .display-4 {
-        font-size: 20px;
+        font-size: 18px;
         font-weight: bold;
         text-align: center;
         text-transform: uppercase;
