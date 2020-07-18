@@ -34,6 +34,10 @@ h6.card-title {
         font-size: 14px;
     }
 
+    .wider {
+        width: 100px;
+    }
+
     .be_statements {
         font-size: 24px;
     }
