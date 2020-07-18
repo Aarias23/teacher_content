@@ -23,5 +23,26 @@ h6.card-title {
         text-align: center;
         text-transform: uppercase;
     }
-
 }
+
+@media only screen and (max-width: 768px) {
+    td {
+        font-size: 10px;
+    }
+
+    .verb_be {
+        font-size: 14px;
+    }
+
+    .wider {
+        width: 100px;
+    }
+
+    .bigger {
+        width: 110px;
+    }
+
+    .be_statements {
+        font-size: 24px;
+    }
+} 
