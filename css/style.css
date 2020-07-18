@@ -34,16 +34,8 @@ h6.card-title {
         font-size: 14px;
     }
 
-    .column-4 {
-        width: 200px;
-    }
-
-    .column-3 {
-        width: 175px;
-    }
-
-    .column-2 {
-        width: 175px;
+    .wider {
+        width: 100px;
     }
 
     .bigger {
