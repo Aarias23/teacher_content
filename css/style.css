@@ -26,19 +26,9 @@ h6.card-title {
 }
 
 @media only screen and (max-width: 768px) {
-    td {
-        font-size: 10px;
-    }
-
-    .verb_be {
-        font-size: 14px;
-    }
-
-    .wider {
-        width: 100px;
-    }
 
     .be_statements {
-        font-size: 24px;
+        font-size: 20px;
+        text-transform: uppercase;
     }
 }
